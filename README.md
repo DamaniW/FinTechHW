@@ -58,7 +58,7 @@ What solution does this company offer that their competitors do not or cannot of
   2. Charles Schwab ($57.9 billion AUM)
   3. Betterment ($18.1 billion AUM)
   4. Personal Capital ($16.5 million AUM)
-  5. Weatherfront ($15.85 nillion AUM)
+  5. Wealthfront ($15.85 nillion AUM)
 
 
 ## Recommendations
